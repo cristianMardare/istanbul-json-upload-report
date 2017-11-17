@@ -11,6 +11,10 @@
     "report",
     "code-coverage"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cristianMardare/istanbul-json-upload-report.git"
+  },
   "author": "",
   "license": "ISC"
 }
