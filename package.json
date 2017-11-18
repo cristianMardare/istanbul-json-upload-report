@@ -2,7 +2,7 @@
   "name": "istanbul-json-upload-report",
   "version": "0.0.1",
   "description": "An Istanbul report that uploads the code coverage in JSON format toa remote endpoint.",
-  "main": "index.js",
+  "main": "lib\\index.js",
   "scripts": {
     "test": "echo \"No tests yet !\" & exit 1"
   },
