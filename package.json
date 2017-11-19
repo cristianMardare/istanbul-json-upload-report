@@ -1,6 +1,6 @@
 {
   "name": "istanbul-json-upload-report",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An Istanbul report that uploads the code coverage in JSON format toa remote endpoint.",
   "main": "lib\\index.js",
   "scripts": {
