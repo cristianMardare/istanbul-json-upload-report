@@ -16,5 +16,8 @@
     "url": "https://github.com/cristianMardare/istanbul-json-upload-report.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
 }
