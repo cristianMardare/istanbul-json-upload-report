@@ -1,6 +1,6 @@
 {
   "name": "istanbul-json-upload-report",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "An Istanbul report that uploads the code coverage in JSON format toa remote endpoint.",
   "main": "lib\\index.js",
   "scripts": {
@@ -16,5 +16,8 @@
     "url": "https://github.com/cristianMardare/istanbul-json-upload-report.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
 }
